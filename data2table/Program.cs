@@ -4,7 +4,7 @@ class Program {
     
 	static void Main(string[] args) {
         
-        object[] countries = { 
+        Country[] countries = { 
             new Country{name="USA",population="350 million"}, 
             new Country{name="China",population="1.4 billion"},
             new Country{name="Russia",population="145 million"}

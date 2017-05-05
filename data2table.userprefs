@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{D2A9E72F-11E4-4C21-8315-1B87BC79083C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="data2table/Program.cs">
-    <Files>
-      <File FileName="data2table/Program.cs" Line="16" Column="10" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

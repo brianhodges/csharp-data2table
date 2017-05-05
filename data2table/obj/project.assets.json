@@ -13979,10 +13979,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Development/Projects/data2table/data2table/data2table.csproj",
+      "projectUniqueName": "/Users/Development/Desktop/csharp-data2table/data2table/data2table.csproj",
       "projectName": "data2table",
-      "projectPath": "/Users/Development/Projects/data2table/data2table/data2table.csproj",
-      "outputPath": "/Users/Development/Projects/data2table/data2table/obj",
+      "projectPath": "/Users/Development/Desktop/csharp-data2table/data2table/data2table.csproj",
+      "outputPath": "/Users/Development/Desktop/csharp-data2table/data2table/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
