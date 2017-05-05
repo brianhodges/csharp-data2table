@@ -1,0 +1,10 @@
+/Users/Development/Projects/data2table/data2table/bin/Debug/netcoreapp1.0/data2table.deps.json
+/Users/Development/Projects/data2table/data2table/bin/Debug/netcoreapp1.0/data2table.runtimeconfig.json
+/Users/Development/Projects/data2table/data2table/bin/Debug/netcoreapp1.0/data2table.runtimeconfig.dev.json
+/Users/Development/Projects/data2table/data2table/bin/Debug/netcoreapp1.0/data2table.dll
+/Users/Development/Projects/data2table/data2table/bin/Debug/netcoreapp1.0/data2table.pdb
+/Users/Development/Projects/data2table/data2table/obj/Debug/netcoreapp1.0/data2table.csprojResolveAssemblyReference.cache
+/Users/Development/Projects/data2table/data2table/obj/Debug/netcoreapp1.0/data2table.csproj.CoreCompileInputs.cache
+/Users/Development/Projects/data2table/data2table/obj/Debug/netcoreapp1.0/data2table.AssemblyInfo.cs
+/Users/Development/Projects/data2table/data2table/obj/Debug/netcoreapp1.0/data2table.dll
+/Users/Development/Projects/data2table/data2table/obj/Debug/netcoreapp1.0/data2table.pdb
