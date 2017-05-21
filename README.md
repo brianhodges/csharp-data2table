@@ -1,4 +1,4 @@
-# Output Data Object(s)/Array(s) into Formatted Terminal Table (C#)
+# Output Data Object/Array into Formatted Terminal Table (C#)
 Just a project more for myself to refer back to when working on future C# projects. Outputs an array of objects into a formatted terminal table.
 
 # Setup
